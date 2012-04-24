@@ -12,4 +12,4 @@
 // figure out where we're at...
 define('DOCUMENTR_ROOT', getcwd());
 // include the Documentr base processor file
-include_once '../src/documentr.php';
+include_once __DIR__.'/../src/documentr.php';
