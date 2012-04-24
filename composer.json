@@ -19,5 +19,5 @@
             "homepage": "keithloy.me"
         }
     ],
-    "bin": ["src/documentr"]
+    "bin": ["bin/documentr"]
 }
