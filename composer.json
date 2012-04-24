@@ -1,0 +1,23 @@
+{
+    "name": "kloy/documentr",
+    "homepage": "https://github.com/kloy/Documentr",
+    "license": "MIT",
+    "description": "Rails' guides style documentation using markdown",
+    "keywords": ["docs", "documentation"],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "authors": [
+        {
+            "name": "Ian Selby",
+            "email": "ian@gen-x-design.com",
+            "homepage": "gen-x-design.com"
+        },
+        {
+            "name": "Keith Loy",
+            "email": "ckeithloy@gmail.com",
+            "homepage": "keithloy.me"
+        }
+    ],
+    "bin": ["src/documentr"]
+}
